@@ -1,0 +1,22 @@
+.box{
+    width: 100px;
+    height: 100px;
+    outline: 1px;
+    border: 1px solid black;
+    
+}
+#first-div{
+display: inline-block;
+}
+#second-div{
+    float: right;
+}
+p{
+    width: 80px;
+    outline: 2px;
+    border: dotted red;
+    display: inline;
+}
+.clearfix{
+    clear:both;
+}

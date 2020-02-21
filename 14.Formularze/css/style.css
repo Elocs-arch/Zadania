@@ -1,0 +1,50 @@
+.contactForm {
+    display: table;
+    justify-content: center;
+}
+.carrentForm {
+    display: table;
+    justify-content: center;
+}
+
+div.formularz {
+    display: table-row;
+}
+
+label, input {
+    display: table-cell;
+    margin-bottom: 10px;
+    height: 170px;
+}
+
+label {
+    padding-right: 10px;
+    height: 170px;
+    justify-content: center;
+    margin: .4rem;
+}
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  
+  cursor: pointer;
+}
+input[type=text], select, textarea {
+  height: 170px;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-top: 6px;
+  margin-bottom: 16px;
+}
+.preference {
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    margin: .5rem;
+}
+div{
+    height:100px;
+    width:100px;
+    border:2px solid black;
+}

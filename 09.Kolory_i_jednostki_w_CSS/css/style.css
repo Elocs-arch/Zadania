@@ -1,0 +1,32 @@
+.czerwony{
+    color:#ff0000;
+}
+.zielony{
+    color: green;
+}
+.niebieski{
+    color:rgb(0,32,211);
+}
+.container{
+    width: 200px;
+    color:antiquewhite;
+}
+.colorUnits{
+    background:inherit;
+}
+.first{
+    width:50%;
+    
+}
+.second{
+    width:10em;
+}
+.czerwonetlo{
+    background-color:#ff0000;
+}
+.zielonetlo{
+  background-color:  green;
+}
+.niebieskietlo{
+  background-color:  rgb(0,32,211);
+}

@@ -1,0 +1,27 @@
+ul.a {
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  color: #116493;
+   
+}
+ul{ list-style-type: square;
+}
+li.a{
+    float:left;
+    display: none;
+    color:#116493;
+    padding: 14px 16px;
+}
+
+.menuList{
+   
+  color:  #116493;
+  text-align: center;
+  
+  
+}
+.squareList{
+    list-style-type: square;
+}
